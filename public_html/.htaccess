@@ -1,0 +1,5 @@
+Options +FollowSymLinks +ExecCGI
+RewriteEngine On
+RewriteBase /
+RewriteRule ^TinyBlog/script/dispatch\.fcgi/.*$ - [L]
+RewriteRule ^(.*)$ TinyBlog/script/dispatch.fcgi/$1 [L]
