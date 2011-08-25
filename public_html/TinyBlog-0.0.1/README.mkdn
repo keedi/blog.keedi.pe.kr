@@ -1,0 +1,43 @@
+# NAME
+
+TinyBlog
+
+# VERSION
+
+version 0.0.1
+
+# SYNOPSIS
+
+    script/tinyblog_server.pl
+
+# DESCRIPTION
+
+[enter your description here]
+
+# NAME
+
+TinyBlog - Catalyst based application
+
+# SEE ALSO
+
+[TinyBlog::Controller::Root](http://search.cpan.org/perldoc?TinyBlog::Controller::Root), [Catalyst](http://search.cpan.org/perldoc?Catalyst)
+
+# AUTHOR
+
+Keedi Kim - 김도형 <keedi@cpan.org>
+
+# LICENSE
+
+This library is free software. You can redistribute it and/or modify
+it under the same terms as Perl itself.
+
+# AUTHOR
+
+Keedi Kim - 김도형 <keedi@cpan.org>
+
+# COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2011 by Keedi Kim.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
