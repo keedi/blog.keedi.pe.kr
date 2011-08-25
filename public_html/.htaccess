@@ -1,5 +1,5 @@
 Options +FollowSymLinks +ExecCGI
 RewriteEngine On
 RewriteBase /
-RewriteRule ^TinyBlog/script/dispatch\.fcgi/.*$ - [L]
-RewriteRule ^(.*)$ TinyBlog/script/dispatch.fcgi/$1 [L]
+RewriteRule ^TinyBlog/script/tinyblog_fastcgi\.fcgi/.*$ - [L]
+RewriteRule ^(.*)$ TinyBlog/script/tinyblog_fastcgi.fcgi/$1 [L]
